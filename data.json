@@ -1,0 +1,6 @@
+{
+	"files": ["/tmp/a", "/tm/aa", "/tmp/c", "/tmp/d",
+		 "/tmp/e", "/tm/aa", "/tmp/c", "/tmp/d"
+	],
+	"white_process": ["/usr/bin/vim", "tst"]
+}
