@@ -1,0 +1,3 @@
+openssl enc -e -aes256 -in kernel-3.tgz -out kernel-3.enc
+openssl enc -d -aes256 -in kernel-3.enc  -out bobobo.tgz
+
